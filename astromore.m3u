@@ -1896,3 +1896,6 @@ https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TVB Xing He" tvg-name="TVB Xing He" group-title="CHINESE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacMAyyw9zZmSVbyPINS2j1ikI4hqM23UVc3ktPCK5Nw&s",TVB Xing He 
 https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u
+
+#EXTINF:-1 tvg-id="Educational" tvg-name="Bem Mais TV" group-title="PORTUGUESE"  tvg-logo="https://imgur.com/E6ILeP9",Bem Mais TV, Brazil 
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
